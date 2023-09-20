@@ -1,0 +1,9 @@
+name: BalancePlugin
+version: '${version}'
+main: dev.xsenny.balanceplugin.BalancePlugin
+api-version: '1.18'
+commands:
+  bal:
+  give:
+  earn:
+  setbal:
